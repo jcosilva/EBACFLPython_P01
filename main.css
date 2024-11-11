@@ -6,12 +6,12 @@
 
 header {
     padding: 16px 0;
-    background-color: #182C61;
+    background-color: #7e2911;
     color: #ecf0f1;
 }
 
 header, section h2, section h3, form button {
-    font-family: 'Bungee', cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: normal;
 }
 
@@ -27,7 +27,7 @@ header nav li a {
 }
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -44,7 +44,6 @@ header .container {
 
 section {
     padding: 24px 0;
-    color: #182C61;
 }
 
 section h2 {
@@ -63,15 +62,7 @@ section .container {
 
 .frente_loja {
     margin-right: 32px;
-}
-
-.lista_marcas img {
-    height: 24px;
-}
-
-.lista_marcas li {
-    display: inline;
-    margin-right: 8px;
+    height: 350px;
 }
 
 .social_links img {
@@ -109,14 +100,14 @@ form textarea {
 }
 
 form button {
-    background-color: #182C61;
+    background-color: #7e2911;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #b94525;
 }
 
 section h3 {
@@ -124,11 +115,11 @@ section h3 {
 }
 
 input:focus, textarea:focus {
-    outline-color: #182C61;
+    outline-color: #7e2911;
 }
 
 footer {
-    background-color: #182C61;
+    background-color: #7e2911;
     color: #ecf0f1;
     padding: 16px 0;
 }
